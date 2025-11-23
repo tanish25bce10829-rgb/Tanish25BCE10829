@@ -123,7 +123,7 @@ Aarush Rahul Patel
 
 Edited by
 
-Aditya Gaurav
+Aditya Gaurav,
 Tanish Sikarwar
 
 ## 🪪 License
